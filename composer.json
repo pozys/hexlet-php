@@ -1,0 +1,13 @@
+{
+	"name": "pozys/hexlet-php",
+	"description": "My first project on Hexlet",
+	"type": "library",
+	"homepage": "https://github.com/pozys",
+	"role": "Developer",
+	"license": "MIT",
+	"authors": [{
+		"name": "Культяпов Константин",
+		"email": "pozys@mail.ru"
+	}],
+	"require": {}
+}
